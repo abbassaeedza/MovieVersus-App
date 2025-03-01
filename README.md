@@ -18,6 +18,13 @@ this project incorporates several basic vanilla js concepts:
     - fetchAPI
     - Async / Await
 
+## How to run
+
+1. install dependencies
+2. run npm watch script (npm run watch)
+3. get yourself [omdbapi API key](https://www.omdbapi.com/apikey.aspx),
+4. change 'XXX' in index.js to the API key you generated
+
 ## Pages
 
 main page
