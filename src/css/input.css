@@ -1,0 +1,8 @@
+@import 'tailwindcss';
+
+@config "../../tailwind.config.js";
+
+* {
+    font-family: 'Poppins', 'Helvetica', 'Helvetica Neue', 'Roboto', 'Segoe UI', Oxygen, Ubuntu, Cantarell, 'Fira Sans',
+        'Arial';
+}
